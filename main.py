@@ -1,4 +1,4 @@
-from PIL import Image  # Import Image class from library.
+from PIL import Image  
 import glob
 from ui import pic_input
 from ui import pic_output
